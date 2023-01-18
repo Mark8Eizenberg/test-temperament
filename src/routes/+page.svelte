@@ -295,8 +295,8 @@
 							label: 'Ваш тип темпераменту',
 							data: [
 								{
-									x: extarversionPoint,
-									y: neuroticPoint,
+									x: neuroticPoint,
+									y: extarversionPoint,
 									r: 10
 								}
 							]
