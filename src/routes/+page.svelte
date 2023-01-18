@@ -1,7 +1,6 @@
 <script>
 	import { Chart } from 'chart.js/auto';
 	import { afterUpdate } from 'svelte';
-	import Message from './Message.svelte';
 
 	let readAbout = false;
 	let quiz = [
